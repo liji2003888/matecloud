@@ -8,7 +8,7 @@
     <groupId>vip.mate</groupId>
     <artifactId>matecloud</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <name>matecloud</name>
     <description>Mate Cloud - 基于Spring Cloud Alibaba实现的微服务架构</description>
